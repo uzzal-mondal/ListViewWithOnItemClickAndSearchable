@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+    <string name="pythonpro_text">
+
+        Python is a powerful multi-purpose programming language created by Guido van Rossum.\n
+
+        It has simple easy-to-use syntax, making it the perfect language\n
+        for someone trying to
+        learn computer programming for the first time.\n
+
+        This is a comprehensive guide on how to get started in Python,\n
+        why you should learn it and how you can learn it.\n
+
+        However, if you have knowledge of other programming languages\n
+        and want to quickly get started with Python, visit Python tutorial page.\n</string>
+
+
+    <string name="javascriptpro_text">
+
+        By itself, HTML doesn’t have any smarts: It can’t do math,\n
+        it can’t figure out if someone has correctly\n
+        filled out a form, and it can’t make decisions based\n
+        on how a web visitor interacts with it.\n
+        Basically, HTML lets people read text, look at pictures, watch videos,\n
+        and click links to move to other web pages with more text, pictures,\n
+        and videos. In order to add intelligence to your web pages so they can\n
+        respond to your site’s visitors, you need JavaScript.\n
+
+        JavaScript lets a web page react intelligently.\n
+        With it, you can create smart web forms that let visitors know\n
+        when they’ve forgotten to include necessary information. You can make elements\n</string>
+
+
+
+    <string name="dartpro_text">
+
+        Dart is an open-source general-purpose programming language.\n
+        It is originally developed by Google and later approved as a standard by ECMA.\n
+        Dart is a new programming language meant for the server as well as the browser.\n
+        Introduced by Google, the Dart SDK ships with its compiler – the Dart VM.\n
+        The SDK also includes a utility -dart2js,\n
+        a transpiler that generates JavaScript equivalent of a Dart Script.\n
+        This tutorial provides a basic level understanding of the Dart programming language.\n
+
+        Audience This tutorial will be quite helpful for all those developers\n
+        who want to develop single-page web applications using Dart.\n
+        It is meant for programmers with a strong hold on object-oriented concepts.\n
+
+        Prerequisites The tutorial assumes that the readers have adequate exposure to\n
+        object-oriented programming concepts. If you have worked on JavaScript,\n
+        then it will help you further to grasp the concepts of Dart quickly.\n</string>
+
+
+
+    <string name="fluterpro_text">
+
+        Flutter’s Stateful Hot Reload preserves the state of your app.\n
+        This design enables you to view the effect of the most recent change only,\n
+        without throwing away the current state. For example,\n
+        if your app requires a user to log in, you can modify\n
+        and hot reload a page several levels down in the navigation hierarchy,\n
+        without re-entering your login credentials. State is kept,\n
+        which is usually the desired behavior.\n
+
+        If code changes affect the state of your app (or its dependencies),\n
+        the data your app has to work with might not be fully consistent\n
+        with the data it would have if it executed from scratch.\n
+        The result might be different behavior after hot reload versus a hot restart.\n
+
+        For example, if you modify a class definition from extending StatelessWidget\n
+        to StatefulWidget (or the reverse), after hot reload the previous state of\n
+        your app is preserved.\n However, the state might not be compatible with the
+        new changes.\n</string>
+
+
+
+    <string name="phppro_text">
+        The PHP Hypertext Preprocessor (PHP) is a programming language that allows web\n
+        developers to create dynamic content that interacts with databases.\n
+        PHP is basically used for developing web based software applications.\n
+        This tutorial helps you to build your base with PHP.\n
+
+        Why to Learn PHP?\n\n
+        PHP started out as a small open source project that\n
+        evolved as more and more people found out how useful it was.\n
+        Rasmus Lerdorf unleashed the first version of PHP way back in 1994.\n
+
+        PHP is a MUST for students and working professionals to become a great Software\n
+        Engineer specially when they are working in Web Development Domain.\n
+        I will list down some of the key advantages of learning PHP:\n
+
+        PHP is a recursive acronym for "PHP: Hypertext Preprocessor".\n
+    </string>
+
+</resources>

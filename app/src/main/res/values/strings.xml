@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">ListViewCreator</string>
+
+
+    <string-array name="programming_name">
+
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>Fluter</item>
+        <item>Dart</item>
+        <item>Android</item>
+        <item>Go</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>PHP</item>
+        <item>Java Script</item>
+        <item>Rubby</item>
+        <item>SQLite</item>
+        <item>My SQL</item>
+        <item>Firebase</item>
+        <item>Java Swipt</item>
+        <item>Machine Lerning</item>
+        <item>AI</item>
+        <item>Laravel</item>
+        <item>Janngo</item>
+
+
+    </string-array>
+
+
+    <!--&lt;!&ndash;This is name... &ndash;&gt;-->
+    <!--<string name="java">Java</string>-->
+    <!--<string name="python">Python</string>-->
+    <!--<string name="javascript">Jaava Script</string>-->
+    <!--<string name="dart">Dart</string>-->
+    <!--<string name="fluter">Fluter</string>-->
+    <!--<string name="php">PHP</string>-->
+    <!--<string name="title_text">This is a Title</string>-->
+    <!--<string name="set_message">Do you want to Exit ? </string>-->
+
+
+    <!--This is String file.. -->
+
+
+    <string name="kotlinPro_text">
+        The PHP Hypertext Preprocessor (PHP) is a programming language that allows web\n
+        developers to create dynamic content that interacts with databases.\n
+        PHP is basically used for developing web based software applications.\n
+        This tutorial helps you to build your base with PHP.\n
+
+        Why to Learn PHP?\n\n
+        PHP started out as a small open source project that\n
+        evolved as more and more people found out how useful it was.\n
+        Rasmus Lerdorf unleashed the first version of PHP way back in 1994.\n
+
+        PHP is a MUST for students and working professionals to become a great Software\n
+        Engineer specially when they are working in Web Development Domain.\n
+        I will list down some of the key advantages of learning PHP:\n
+
+        PHP is a recursive acronym for "PHP: Hypertext Preprocessor".\n
+    </string>
+
+
+    <string name="javapro_text">
+
+        Java is a popular general-purpose programming language and computing platform.\n
+        It is fast, reliable, and secure. According to Oracle, the company that\n
+        owns Java, Java runs on 3 billion devices worldwide.\n
+
+        Considering the number of Java developers, devices running Java,\n and companies adapting
+        it, its safe to say that Java will be around for many years to come.\n
+
+        This guide will provide everything you need to know about\n
+        Java programming language before you learn it. More specifically,\n
+        you will learn about features of Java programming,\n
+        its applications, reasons to learn it, and how you can learn it the right way.\n</string>
+
+
+
+
+
+</resources>
