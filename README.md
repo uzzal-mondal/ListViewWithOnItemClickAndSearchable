@@ -18,7 +18,7 @@ Then view jeta korbe , seta holo akta list view te set korbe.
 
 
 ListView Practical :02
-#listview-datasource-Adapter-
+# listview-datasource-Adapter-
 1.	 List view with id find
 
 
@@ -39,14 +39,14 @@ ArrayAdapter<String> adapter = new                   ArrayAdapter<String>()
 
 Constructer er moddhe 4 ti jinish pass korte hobe.
 
-# at first j class a asi sei class er name.        MainActivity.this
+ at first j class a asi sei class er name.        MainActivity.this
 
-# Array adapter kon layout ba sample ta follow korbe, seta bolte hobe. 
+ Array adapter kon layout ba sample ta follow korbe, seta bolte hobe. 
 R.layout.sample view er name.
 
-# sample view er  textView er id name ta boshsbe.
+ sample view er  textView er id name ta boshsbe.
 
-# at last text view j String ta boshbe sei String er name.   eta amar string resource a rakha ase. Java file a niye asar por tar name.
+ at last text view j String ta boshbe sei String er name.   eta amar string resource a rakha ase. Java file a niye asar por tar name.
 
 String[] programming_name = getResources().getStringArray(R.array.programming_name);
 
